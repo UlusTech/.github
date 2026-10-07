@@ -2,5 +2,5 @@
   <img src="assets/ulus-logo.svg" alt="Ulus" width="200">
 </p>
 <p align="center">
-Ulus.
+# Ulus.
 </p>
