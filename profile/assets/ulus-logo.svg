@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" role="img" aria-label="Ulus logo">
+<g>
+<path d="M500 1000V566L560 608L500 1000Z" fill="white"/>
+<path d="M500 566V1000L440 608L500 566Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 0V434L440 392L500 0Z" fill="white"/>
+<path d="M500 434V0L560 392L500 434Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 566V500L720 720L500 566Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 500H566L720 720L500 500Z" fill="white"/>
+<path d="M1000 500H566L608 440L1000 500Z" fill="white"/>
+<path d="M566 500H1000L608 560L566 500Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 500V434L720 280L500 500Z" fill="white"/>
+<path d="M500 500L720 280L566 500H500Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 434V500L280 280L500 434Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 500H434L280 280L500 500Z" fill="white"/>
+<path d="M0.000121948 500H434L392 560L0.000121948 500Z" fill="white"/>
+<path d="M434 500H0L392 440L434 500Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 500V566L280 720L500 500Z" fill="white"/>
+<path d="M500 500L280 720L434 500H500Z" fill="black" fill-opacity="0.1"/>
+</g>
+<g style="mix-blend-mode:soft-light">
+<path d="M500 1000V566L560 608L500 1000Z" fill="white"/>
+<path d="M500 566V1000L440 608L500 566Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 0V434L440 392L500 0Z" fill="white"/>
+<path d="M500 434V0L560 392L500 434Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 566V500L720 720L500 566Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 500H566L720 720L500 500Z" fill="white"/>
+<path d="M1000 500H566L608 440L1000 500Z" fill="white"/>
+<path d="M566 500H1000L608 560L566 500Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 500H566L720 720L500 500Z" fill="white"/>
+<path d="M1000 500H566L608 440L1000 500Z" fill="white"/>
+<path d="M566 500H1000L608 560L566 500Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 500V434L720 280L500 500Z" fill="white"/>
+<path d="M500 500L720 280L566 500H500Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 434V500L280 280L500 434Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 500H434L280 280L500 500Z" fill="white"/>
+<path d="M0.000121948 500H434L392 560L0.000121948 500Z" fill="white"/>
+<path d="M434 500H0L392 440L434 500Z" fill="black" fill-opacity="0.1"/>
+<path d="M500 500V566L280 720L500 500Z" fill="white"/>
+<path d="M500 500L280 720L434 500H500Z" fill="black" fill-opacity="0.1"/>
+</g>
+</svg>
